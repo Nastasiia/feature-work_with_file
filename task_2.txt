@@ -1,4 +1,0 @@
-n=a+b
-n=5
-some changes to the file was added
-
